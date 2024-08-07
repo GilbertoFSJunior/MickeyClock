@@ -54,3 +54,45 @@ Para mais informações, entre em contato:
 - Email: gilbertodev2@gmail.com
 - LinkedIn: https://linkedin.com/in/gilbertofsjunior
 
+# Mickey Mouse Clock
+
+![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)
+
+## Descrição
+Um relógio analógico estilizado com o tema Mickey Mouse, que mostra as horas com os braços do personagem. Este projeto usa HTML, CSS e JavaScript para criar um relógio dinâmico e interativo.
+
+## Índice
+1. [Instalação](#instalação)
+2. [Uso](#uso)
+3. [Contribuição](#contribuição)
+4. [Licença](#licença)
+5. [Contato](#contato)
+
+## Instalação
+Siga os passos abaixo para instalar e configurar o projeto:
+
+### Clonando o Repositório
+
+```bash
+# Clone o repositório
+git clone https://github.com/usuario/mickey-mouse-clock.git
+
+# Navegue até o diretório do projeto
+cd mickey-mouse-clock
+
+
+Uso
+Abra o arquivo index.html em seu navegador para visualizar o relógio do Mickey Mouse em funcionamento.
+
+Contribuição
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+Faça um fork do projeto.
+Crie uma branch para sua feature (git checkout -b feature/MinhaFeature).
+Comite suas alterações (git commit -m 'Adiciona MinhaFeature').
+Envie para o branch (git push origin feature/MinhaFeature).
+Abra um Pull Request.
+Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
